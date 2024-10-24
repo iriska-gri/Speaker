@@ -1,0 +1,15 @@
+// app global css in SCSS form
+// @font-face {
+//     font-family: Onest-Regular;
+//     src: url(./fonts/Onest-Regular.woff);
+//   }
+@font-face {
+  font-family: Golos;
+  src: url(./fonts/Golos-Text_Regular.ttf);
+}
+  // declare a class which applies it
+  body {
+    font-family: 'Golos';
+  }
+
+  

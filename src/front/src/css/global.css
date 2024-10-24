@@ -1,0 +1,9 @@
+.text_line_hight {
+    line-height: 0.9rem;
+}
+
+/* Подстраивается под flex w h */
+canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
